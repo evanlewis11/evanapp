@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  home: MyString
+  away: MyString
+  game_time: 2012-05-11 00:22:16
+  day_pass_id: 1
+  stream_url: MyString
+
+two:
+  home: MyString
+  away: MyString
+  game_time: 2012-05-11 00:22:16
+  day_pass_id: 1
+  stream_url: MyString

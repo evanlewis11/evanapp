@@ -1,0 +1,7 @@
+Stream Sports
+
+<ul>
+  <% @leagues.each do |league| %>
+    <li><%= link_to league.name , "/sports_league/#{league.id}" %></li>
+  <% end %>
+</ul>
